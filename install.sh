@@ -1,6 +1,4 @@
 #!/bin/bash
-# Encrypt ala Anak G@but
-# Repo https://github.com/FajarKim/blind-bash
 skip=50
 set -e
 case $(printf 'X\n' | tail -n +1 2>/dev/null) in
