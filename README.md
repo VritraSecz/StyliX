@@ -59,6 +59,10 @@ Additionally, the script defines the following shortcut commands for quick acces
 
 > Now just reopen your termux to see new look with login screen.
 
+## Uninstall
+
+- `rmstylix`
+
 + Feel free to customize the script to suit your specific needs by adding or modifying shortcut commands and enabling additional features.
 
 + Enjoy your enhanced Termux shell experience with advanced features and convenient shortcut commands!
