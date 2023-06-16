@@ -49,13 +49,13 @@ Additionally, the script defines the following shortcut commands for quick acces
 
 ## Installation
 
-- `apt update -y`
-- `apt upgrade -y`
-- `apt install git -y`
-- `git clone https://github.com/MrHacker-X/StyliX.git`
-- `cd StyliX`
-- `bash install.sh`
->> Now It will take just few seconds and then, it will ask you to set username and password. after entering username and password confirm it by ` y ` and done. StyliX is applied in your termux.
+- ```apt update -y```
+- ```apt upgrade -y```
+- ```apt install git -y```
+- ```git clone https://github.com/MrHacker-X/StyliX.git```
+- ```cd StyliX```
+- ```bash install.sh```
+> Now It will take just few seconds and then, it will ask you to set username and password. after entering username and password confirm it by ` y ` and done. StyliX is applied in your termux.
 
 > Now just reopen your termux to see new look with login screen.
 
